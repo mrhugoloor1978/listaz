@@ -795,6 +795,8 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_
 https://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "" tvg-logo = "#" group-title = "ECUADOR", UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
-
+---------------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="COPA AMERICA",DEPORTES: TUDN MEXICO 
+https://blackghost.live/play/zufree-609.php?c=40968
 
 
