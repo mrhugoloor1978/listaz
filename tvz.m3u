@@ -597,7 +597,7 @@ http://186.101.216.211:8000/play/a074
 http://186.101.216.211:8000/play/a0ef
 #EXTINF: -1 group-title = "Lista CNT PLAY", Love Music
 http://186.101.216.211:8000/play/a02t
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", MTV
+#EXTINF: -1 group-title = "Lista CNT PLAY", MTV
 http://186.101.216.211:8000/play/a0dh
 #EXTINF: -1 group-title = "Lista CNT PLAY", Mega
 http://186.101.216.211:8000/play/a01x
@@ -769,9 +769,9 @@ https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w751577676.m3u8
 http://45.71.202.210:50000/play/a07i/index.m3u8
 #EXTINF: -1 group-title = "ECUADOR", Ecuador TV 
 http://45.71.202.210:50000/play/a02i/index.m3u8
-#EXTINF: -1 group-title = "ECUADOR"", Tc Televisión SD
+#EXTINF: -1 group-title = "ECUADOR", Tc Televisión SD
 http://200.24.132.99:8000/play/a00m
-#EXTINF: -1 group-title = "ECUADOR"", Teleamazonas SD
+#EXTINF: -1 group-title = "ECUADOR", Teleamazonas SD
 http://200.24.132.99:8000/play/a00n
 #EXTINF: -1 group-title = "ECUADOR", Oromar SD
 http://200.24.132.99:8000/play/a00h
@@ -899,7 +899,7 @@ https://blackghost.live/play/zufree-615.php?c=40969
 https://blackghost.live/play/zufree-615.php?c=40970
 #EXTINF:-1 group-title="TVLATINO", BEIN ESPORT 
 https://blackghost.live/play/zufree-615.php?c=40971
-#EXTINF:-1 group-title="TVLATINO",CartoonNetwork
+#EXTINF:-1 group-title="TVLATINO",Cartoon Network
 https://blackghost.live/play/zufree-615.php?c=40972
 #EXTINF:-1 group-title="TVLATINO", FoxS 
 https://blackghost.live/play/zufree-615.php?c=40976
