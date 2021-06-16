@@ -439,9 +439,9 @@ http://186.101.216.211:8000/play/a02g
 http://186.101.216.211:8000/play/a0dj
 #EXTINF: -1 group-title = "Lista CNT PLAY", Baby TV
 http://186.101.216.211:8000/play/a0dc
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", C9N
+#EXTINF: -1 group-title = "Lista CNT PLAY", C9N
 http://186.101.216.211:8000/play/a097
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", CHV
+#EXTINF: -1 group-title = "Lista CNT PLAY", CHV
 http://186.101.216.211:8000/play/a0eb
 #EXTINF: -1 group-title = "Lista CNT PLAY", CMD Na
 http://186.101.216.211:8000/play/a0am
@@ -507,11 +507,11 @@ http://186.101.216.211:8000/play/a06b
 http://186.101.216.211:8000/play/a02i
 #EXTINF: -1 group-title = "Lista CNT PLAY", ESPN 2 Latin
 http://186.101.216.211:8000/play/a02k
-#EXTINF: -1 título de grupo = "Lista CNT PLAY", ESPN 3 
+#EXTINF: -1 group-title = "Lista CNT PLAY", ESPN 3 
 http://186.101.216.211:8000/play/a0cz
 #EXTINF: -1 group-title = "Lista CNT PLAY", ESPN 
 http://186.101.216.211:8000/play/a02l
-#EXTINF: -1 título de grupo = "Lista CNT PLAY", ESPN MOV
+#EXTINF: -1 group-title = "Lista CNT PLAY", ESPN MOV
 http://186.101.216.211:8000/play/espn
 #EXTINF: -1 group-title = "Lista CNT PLAY", ESPNe
 http://186.101.216.211:8000/play/a0e4
@@ -521,7 +521,7 @@ http://186.101.216.211:8000/play/a0e3
 http://186.101.216.211:8000/play/etct
 #EXTINF: -1 group-title = "Lista CNT PLAY", Ecuador TV
 http://186.101.216.211:8000/play/a06u
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", Ecuador TV Co
+#EXTINF: -1 group-title = "Lista CNT PLAY", Ecuador TV Co
 http://186.101.216.211:8000/play/a04c
 #EXTINF: -1 tvg-id = "a038" group-title = "Lista CNT PLAY", Ecuavisa
 http://186.101.216.211:8000/play/a038
@@ -559,9 +559,9 @@ http://186.101.216.211:8000/play/a08d
 http://186.101.216.211:8000/play/a0a1
 #EXTINF: -1 group-title = "Lista CNT PLAY", GOL TV 
 http://186.101.216.211:8000/play/a02m
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", GOLPERU
+#EXTINF: -1 group-title = "Lista CNT PLAY", GOLPERU
 http://186.101.216.211:8000/play/a0d6
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", GOLTVEC 
+#EXTINF: -1 group-title = "Lista CNT PLAY", GOLTVEC 
 http://186.101.216.211:8000/play/a032
 #EXTINF: -1 group-title = "Lista CNT PLAY", Gamavision 
 http://186.101.216.211:8000/play/a067
@@ -607,7 +607,7 @@ http://186.101.216.211:8000/play/a069
 http://186.101.216.211:8000/play/a0aq
 #EXTINF: -1 título-grupo = "Lista CNT PLAY", Movistar Plus
 http://186.101.216.211:8000/play/a0eg
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", NPY
+#EXTINF: -1 group-title = "Lista CNT PLAY", NPY
 http://186.101.216.211:8000/play/a099
 #EXTINF: -1 group-title = "Lista CNT PLAY", Nat Geo 
 http://186.101.216.211:8000/play/a06c
@@ -617,7 +617,7 @@ http://186.101.216.211:8000/play/a0e6
 http://186.101.216.211:8000/play/a0ai
 #EXTINF: -1 group-title = "Lista CNT PLAY", Nickelodeon 
 http://186.101.216.211:8000/play/a06a
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", OROMAR
+#EXTINF: -1 group-title = "Lista CNT PLAY", OROMAR
 http://186.101.216.211:8000/play/a06r
 #EXTINF: -1 group-title = "Lista CNT PLAY", Oglobo
 http://186.101.216.211:8000/play/a08u
@@ -631,7 +631,7 @@ http://186.101.216.211:8000/play/a03d
 http://186.101.216.211:8000/play/a0a8
 #EXTINF: -1 group-title = "Lista CNT PLAY", Playboy
 http://186.101.216.211:8000/play/a070
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", RAI
+#EXTINF: -1 group-title = "Lista CNT PLAY", RAI
 http://186.101.216.211:8000/play/a0dm
 #EXTINF: -1 group-title = "Lista CNT PLAY", RCN Novelas
 http://186.101.216.211:8000/play/a08b
@@ -663,7 +663,7 @@ http://186.101.216.211:8000/play/a0dg
 http://186.101.216.211:8000/play/a03h
 #EXTINF: -1 group-title = "Lista CNT PLAY", Sinfónico
 http://186.101.216.211:8000/play/a02r
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", TBS Co
+#EXTINF: -1 group-title = "Lista CNT PLAY", TBS Co
 http://186.101.216.211:8000/play/a08f
 #EXTINF: -1 group-title = "Lista CNT PLAY", TC TV
 http://186.101.216.211:8000/play/a06n
@@ -673,15 +673,15 @@ http://186.101.216.211:8000/play/a035
 http://186.101.216.211:8000/play/a0e9
 #EXTINF: -1 group-title = "Lista CNT PLAY", TLC 
 http://186.101.216.211:8000/play/a02x
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", TNT
+#EXTINF: -1 group-title = "Lista CNT PLAY", TNT
 http://186.101.216.211:8000/play/a0dt
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", TNT 
+#EXTINF: -1 group-title = "Lista CNT PLAY", TNT 
 http://186.101.216.211:8000/play/a06p
 #EXTINF: -1 group-title = "Lista CNT PLAY", TNT SPORTS 
 http://186.101.216.211:8000/play/a021
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", TNT SPORTS 3
+#EXTINF: -1 group-title = "Lista CNT PLAY", TNT SPORTS 3
 http://186.101.216.211:8000/play/a02o
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", Serie TNT
+#EXTINF: -1 group-title = "Lista CNT PLAY", Serie TNT
 http://186.101.216.211:8000/play/a0du
 #EXTINF: -1 group-title = "Lista CNT PLAY", TRO
 http://186.101.216.211:8000/play/a09c
@@ -689,7 +689,7 @@ http://186.101.216.211:8000/play/a09c
 http://186.101.216.211:8000/play/a0d4
 #EXTINF: -1 group-title = "Lista CNT PLAY", TV PERU
 http://186.101.216.211:8000/play/a09y
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", TVEDUCA
+#EXTINF: -1 group-title = "Lista CNT PLAY", TVEDUCA
 http://186.101.216.211:8000/play/a02d
 #EXTINF: -1 group-title = "Lista CNT PLAY", Teleamazonas 
 http://186.101.216.211:8000/play/a039
@@ -729,7 +729,7 @@ http://186.101.216.211:8000/play/a06f
 http://186.101.216.211:8000/play/a0a3
 #EXTINF: -1 group-title = "Lista CNT PLAY", Venus
 http://186.101.216.211:8000/play/a02q
-#EXTINF: -1 título-grupo = "Lista CNT PLAY", WOBI 
+#EXTINF: -1 group-title = "Lista CNT PLAY", WOBI 
 http://186.101.216.211:8000/play/a0ak
 #EXTINF: -1 tvg-id = "Canal Warner TV (México)" group-title = "Lista CNT PLAY", Warner 
 http://186.101.216.211:8000/play/a02h
@@ -742,19 +742,19 @@ http://186.101.216.211:8000/play/a06i
 #EXTINF: -1 tvg-id = "Canal ZOOM (Colombia)" group-title = "Lista CNT PLAY", Zoom
 http://186.101.216.211:8000/play/a09b
 ---------------------------------------------------------------------------------------------
-#EXTINF: -1 título-grupo = "ECUADOR", CANAL UNO HD
+#EXTINF: -1 group-title = "ECUADOR", CANAL UNO HD
 http://200.24.132.99:8000/play/a00a
-#EXTINF: -1 título-grupo = "ECUADOR", ECTV HD
+#EXTINF: -1 group-title = "ECUADOR", ECTV HD
 http://200.24.132.99:8000/play/a00f
 #EXTINF: -1 tvg-logo = "https://www.radiocre.com/wp-content/uploads/2015/06/logo-ecuavisa.jpg" group-title = "ECUADOR", Ecuavisa HD
 http://45.179.140.242:8000/play/a0ho
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title = "ECUADOR", Oromar HD
 http://200.24.132.99:8000/play/a00c
-#EXTINF: -1 título-grupo = "ECUADOR", RTS HD
+#EXTINF: -1 group-title = "ECUADOR", RTS HD
 http://200.24.132.99:8000/play/a004
-#EXTINF: -1 título-grupo = "ECUADOR", TC HD
+#EXTINF: -1 group-title = "ECUADOR", TC HD
 http://200.24.132.99:8000/play/a008
-#EXTINF: -1 título-grupo = "ECUADOR", TELEAMAZONAS HD
+#EXTINF: -1 group-title = "ECUADOR", TELEAMAZONAS HD
 http://200.24.132.99:8000/play/a006
 #EXTINF: -1 tvg-logo = "http://directostv.teleame.com/wp-content/uploads/2018/05/miptv-100x70.png" group-title = "ECUADOR", EC: ACV Vision Movies ( CE)
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/chunklist_w1667001350.m3u8?_=1
