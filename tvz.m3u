@@ -782,17 +782,10 @@ https://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "" tvg-logo = "#" group-title = "ECUADOR", UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
 ---------------------------------------------------------------------------------------------
-#EXTINF:-1  group-title="EUROCOPA", DIRECTV SPORTS +
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directvplus&f=.m3u8
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="DIRECTV SPORTS 1 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="COPA AMERICA",DIRECTV SPORTS 1 ⁽ᴹ⁾
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=directv&f=.m3u8
-#EXTINF:-1  group-title="COPA AMERICA"", TUDN MX
-http://ipeteve.com/php/SR_REGIO_303030/regio22.php?c=tudnmx&f=.m3u8
-
-_______________________________________________________________________________________________________________
+_____________________________________________________________
 
 
-#EXTINF:-1 group-title="COPA AMERICA",DEPORTES: TUDN MEXICO 
+#EXTINF:-1 group-title="Lista02", TUDN 
 https://blackghost.live/play/zufree-615.php?c=40968
 #EXTINF:-1 group-title="Lista02", CANAL 5 MX
 https://blackghost.live/play/zufree-615.php?c=40969
@@ -852,7 +845,7 @@ https://blackghost.live/play/zufree-615.php?c=41000
 https://blackghost.live/play/zufree-615.php?c=41001
 #EXTINF:-1 group-title="Lista02", DISCOVERY KIDS
 https://blackghost.live/play/zufree-615.php?c=41002
-#EXTINF:-1 group-title="Lista 03", DISNEY JUNIOR
+#EXTINF:-1 group-title="Lista02", DISNEY JUNIOR
 https://blackghost.live/play/zufree-615.php?c=41003
 #EXTINF:-1 group-title="Lista02", NICKELODEON
 https://blackghost.live/play/zufree-615.php?c=41004
@@ -1027,100 +1020,11 @@ https://blackghost.live/play/zufree-615.php?c=41504
 
 -----------------------------------------------------
 -----------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Canal del Futbol SD ( Solo Eventos )" tvg-logo="http://tv.iptv5latino.cl:8000/images/297f080dfda24ea8641eee3a451ac413.png" group-title="DEPORTES",Ecuador - Canal del Futbol SD ( Solo Eventos )
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63541
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE ECUADOR" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQF4nbh9r1MCJA/company-logo_200_200/0/1519865005877?e=2159024400&v=beta&t=ztkAIkTsm7RcAsbUXkfXw32bAlR9IPjFmUQm2hagm-k" group-title="DEPORTES",LIGA DE ECUADOR
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/68864
-#EXTINF:-1 tvg-id="foxsports.las" tvg-name="FOX SPORTS 1 (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX SPORTS 1 (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54121
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="ESPN 2 MÉXICO (ꜱᴅ)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 MÉXICO (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53649
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 2 MÉXICO (ꜱᴅ)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="DEPORTES",ESPN 2 MÉXICO (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/27553
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Fox Sports 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55425
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3 ARGENTINA (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 ARGENTINA (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/41668
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 MÉXICO (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 MÉXICO (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55007
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES",FOX SPORTS PREMIUM (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/62490
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS (ecuador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES",DIRECTV SPORTS (ecuador)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/60863
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53362
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="DIRECTV SPORTS 1 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 1 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54128
 
 
 =========================================================================================================================================================================
 
 
 ==========================================================================================================================================================================
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="FX ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="TVCABLE",FX ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55427
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANELL (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/800px-Disney_Channel_logo_%282014%29.svg.png" group-title="TVCABLE",DISNEY CHANELL (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/15604
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.howdeniberia.com/wp-content/uploads/2018/05/Disney-logo-png-transparent-download.png" group-title="TVCABLE",DISNEY CHANNEL
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/33727
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR (ꜱᴅ)" tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="TVCABLE",DISNEY JUNIOR (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/723
-#EXTINF:-1 tvg-id="disneyjr.cl" tvg-name="Disney Junior ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" group-title="TVCABLE",Disney Junior ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55408
-#EXTINF:-1 tvg-id="disneyxd.cl" tvg-name="Disney XD ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="TVCABLE",Disney XD ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55409
-#EXTINF:-1 tvg-id="disneyxd.cl" tvg-name="DISNEY XD ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="TVCABLE",DISNEY XD ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/724
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Film & Arts ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="TVCABLE",Film & Arts ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/49468
-#EXTINF:-1 tvg-id="foxaction.la" tvg-name="Fox Action ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/W_A_l4RrwQr5kxRaVHyue-Kk4ibAwU5F5D3jv-74Bx7SDmrd2H2mO1QR4kSZC9I06pgMXGoDRm-njPh0KzoUUiXX3L4IWVIfNUbyMGEiXYkGSM3Ols6BWopqF8VQ_OJlDbl08_HPWcyTk7xyP6sRl26o" group-title="LATINOS SD",Fox Action ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55415
-#EXTINF:-1 tvg-id="foxchannel.mx" tvg-name="FOX CHANNEL (ᴍᴇxɪᴄᴏ)" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="TVCABLE",FOX CHANNEL
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53539
-#EXTINF:-1 tvg-id="foxaction.la" tvg-name="FOX CHANNEL SUR" tvg-logo="https://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="TVCABLE",FOX CHANNEL SUR
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/1738
-#EXTINF:-1 tvg-id="foxaction.la" tvg-name="Fox Channel ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FOX_wordmark-black.svg/1200px-FOX_wordmark-black.svg.png" group-title="TVCABLE",Fox Channel
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55416
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Fox Cinema ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Fox_Premium_Cinema_1.png/revision/latest/scale-to-width-down/340?cb=20200109143105&path-prefix=es" group-title="LATINOS SD",Fox Cinema ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55417
-#EXTINF:-1 tvg-id="foxclassics.la" tvg-name="Fox Classics ⁽ˢᵈ⁾" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png" group-title="TVCABLE",Fox Classics
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55418
-#EXTINF:-1 tvg-id="foxfamily.la" tvg-name="Fox Family ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9a/Fox_Premium_Family_2017.svg/revision/latest/scale-to-width-down/340?cb=20200510184117&path-prefix=es" group-title="TVCABLE",Fox Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55419
-#EXTINF:-1 tvg-id="foxlife.la" tvg-name="Fox Life ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="TVCABLE",Fox Life ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55420
-#EXTINF:-1 tvg-id="foxmovies.la" tvg-name="Fox Movies ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/LLzdVwulEgEhLA6y2TgLpw7gPsdffx-K0T-RR_wr3RCtx6-VkbRzJDtjIJOsrIMv8E_mUYA4aB3jP0eL33gYDdnTuZJn6AZOXDVVSUT7hTkZnYgBvAaI6nsXshTdgWdsrOUizUg2n-W8kUdKyCD7JLFc" group-title="TVCABLE",Fox Movies ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55421
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Fox Series ⁽ˢᵈ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/5MSNsf1I8LH3BSTgkiZnvXZOhhBOmI9ijyeBeXCriEgpfG8ezeDuPYaHCprm03dHwcF5ZKR2OfhA98LD_bam1wVnmSHgwFngsE7JT6GwwnQ3m3Wb25ULYW5JeNgQvf6_EmCCi5Hq0ScKFJsJJVN7FWn8" group-title="LATINOS SD",Fox Series ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55424
-#EXTINF:-1 tvg-id="history.co" tvg-name="H2 ⁽ˢᵈ⁾" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/59/H2_logo_2019.png/revision/latest/scale-to-width-down/340?cb=20191211180911&path-prefix=es" group-title="TVCABLE",H2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55429
-#EXTINF:-1 tvg-id="hbo2.cl" tvg-name="HBO 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="TVCABLE",HBO 2 ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55431
-#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO Family ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="TVCABLE",HBO Family ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55432
-#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="TVCABLE",HBO ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55430
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Investigation Discovery ⁽ˢᵈ⁾" tvg-logo="https://dcom-prod.imgix.net/files/2018-12/ID-Logo-white.png" group-title="TVCABLE",Investigation Discovery ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55433
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TVCABLE",Las Estrellas ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55435
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="TVCABLE",NICK JR (ꜱᴅ)
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/726
 
-===========================================================================================================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Ecuavisa [Gquil] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a3fff5343075870074dbe3092d16656b.png" group-title="ECUADORSD",Ecuador - Ecuavisa [Gquil] SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63560
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Oromar TV SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/c295d286ede5d464463cbfea23a92938.png" group-title="ECUADORSD",Ecuador - Oromar TV SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63571
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - RTS SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/243653d8062248c551885f2a80f2f571.jpg" group-title="ECUADORSD",Ecuador - RTS SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63574
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - RTU SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/9c236d91351a53412856385c13fe16b9.jpg" group-title="ECUADORSD",Ecuador - RTU SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63575
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Teleamazonas [Gquil] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="ECUADORSD",Ecuador - Teleamazonas [Gquil] SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63582
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador - Teleamazonas [Quito] SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="ECUADORSD",Ecuador - Teleamazonas [Quito] SD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/63585
-#EXTINF:-1 tvg-id="#0.sp" tvg-name="Gamavision ⁽ˢᵈ⁾" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Gamavision-en-vivo-Online.png" group-title="ECUADORSD",Gamavision ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/55428
 
